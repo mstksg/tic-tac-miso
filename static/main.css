@@ -1,0 +1,7 @@
+
+.piece {
+    display: inline-block;
+    width: 50px;
+    margin: auto;
+    text-align: center;
+}
